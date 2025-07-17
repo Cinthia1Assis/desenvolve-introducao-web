@@ -1,0 +1,26 @@
+<DOCTYPE html
+<html>
+        <head>
+            <title> Meus filmes</title>
+        </head>
+        <body>
+            <section>
+                <img src=""/>
+                <p>
+                    <a href="">Página do Filme</a>
+                </p>
+            <section>
+                <img src=""/>
+                <p>
+                    <a href="">Página do Filme</a>
+                </p>
+             <section>
+                <img src=""/>
+                <p>
+                    <a href="">Página do Filme</a>
+                </p>
+             <section>
+                <img src=""/>
+                <p>
+                    <a href="">Página do Filme</a>
+                </p>
